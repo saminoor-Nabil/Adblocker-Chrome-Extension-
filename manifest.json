@@ -1,0 +1,15 @@
+{
+    "name": "Gandhi Adblocker",
+    "version": "3.056",
+    "description": "DevSage Adblocker Tutorial",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icon/large-cat-breed-1553197454_1_16x16.png",
+        "48": "icon/large-cat-breed-1553197454_2_48x48.png",
+        "128": "icon/large-cat-breed-1553197454_3_128x128.png"
+    },
+    "manifest_version": 2
+}
